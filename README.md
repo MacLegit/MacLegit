@@ -12,7 +12,8 @@
 Estou atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.
   
 #
-<div class="tenor-gif-embed" data-postid="7301255" data-share-method="host" data-aspect-ratio="1.00402" align="right" alt="" height="190px" ><a href="https://tenor.com/view/kanye-album-cover-gif-7301255">Kanye Album Cover GIF</a>from <a href="https://tenor.com/search/kanye-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
